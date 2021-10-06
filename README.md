@@ -1,2 +1,2 @@
 # hello-world
-study
+This is my first use
